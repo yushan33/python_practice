@@ -15,5 +15,6 @@ True,False
 {"key":"value","key2":"value2"}
 
 #變數=資料
+#不需要型態宣告
 x=3
 
