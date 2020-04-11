@@ -1,0 +1,4 @@
+Hello File
+Second Line
+測試中文
+安安你好給約嗎

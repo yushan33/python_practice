@@ -8,8 +8,9 @@
 
 ### 內建模組
 # sys : 取得系統相關資訊
-# import sys
 
+
+# import sys
 # print(sys.platform)     #印出作業系統
 # print(sys.maxsize)      #印出整數型態的最大值
 # print(sys.path)         #印出搜尋模組的路徑
@@ -19,7 +20,7 @@
 # print(s.maxsize)      #印出整數型態的最大值
 # print(s.path)         #印出搜尋模組的路徑
 
-### 自訂模組(在這個檔案放了一個叫做geometry.py)
+# ### 自訂模組(在同層資料夾中放了一個叫做geometry.py的檔案)
 # import geometry
 # result =  geometry.distance(1,1,5,5)
 # print(result)
