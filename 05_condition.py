@@ -15,14 +15,14 @@
 # 不支援switch
 
 ###### 數字大小 ######
-# x = input("input number:")  #輸入的型態為字串
-# x = int(x)  #轉換成整數型態
-# if x  > 200:
-#     print("Greater than 200")
-# elif x < 200 and x > 100:
-#     print("Greater than 100 and less than 200")
-# else:
-#     print("Less than 100")
+x = input("input number:")  #輸入的型態為字串
+x = int(x)  #轉換成整數型態
+if x  > 200:
+    print("Greater than 200")
+elif x < 200 and x > 100:
+    print("Greater than 100 and less than 200")
+else:
+    print("Less than 100")
 
 
 ####### 四則運算 ######
